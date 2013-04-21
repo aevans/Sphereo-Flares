@@ -8,8 +8,7 @@ TODO:
   - a macro for the `Sphero MacroLab` application
   - an input file to a program that can communicate with a `Sphero`
   - an actual program that can directly control a `Sphero`
-4. Create an online tool that will generate macros or the above data based on a query usable by `STEREO`
-5. Add functionality to expand, modify, and share existing macros in the system
-6. Add a tool that will set a `Sphero` to the current activity level for the latest image data available from `STEREO`
-7. Add a push notification event for major solar flare activity that can be processed by a `Sphero` setup to handle such events
- 
+4. Create an online tool that will generate macros for the above data based on a query usable by `STEREO`
+5. Add functionality to expand, modify, and share existing macros through the online tool
+6. Add a push notification event for major solar flare activity that can be processed by a `Sphero` setup to handle such events
+7. Create a tool that will set a `Sphero` to the current activity level for the latest image data available from `STEREO`
