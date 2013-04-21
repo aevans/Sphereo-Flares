@@ -34,4 +34,4 @@ Resources:
 
 - - - - -
 
-/#spaceapps #solarflare #sphero @spaceapps @gosphereo @spherodev @artoo
+\#spaceapps #solarflare #sphero @spaceapps @gosphereo @spherodev @artoo
